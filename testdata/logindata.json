@@ -1,0 +1,12 @@
+{
+    "validuser": {
+        "username": "admin",
+        "password": "admin123"
+    },
+    "invaliduser": {
+        "username": "user",
+        "password": "pass123"
+    },
+    "dashboardText": "Dashboard",
+    "invalidLoginErrorText": "Invalid credentials"
+}
